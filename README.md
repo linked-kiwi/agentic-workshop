@@ -10,4 +10,4 @@ Copy the API key and store it in Google Colab secrets as GOOGLE_API_KEY
   
 Navigate to http://huggingface.co and if you don't have an account, sign up for your free account.  
 Right click your profile picture and _Access tokens > Create new token_  
-COpy your token and store it in Google Colab secrets as HF_TOKEN
+Copy your token and store it in Google Colab secrets as HF_TOKEN
