@@ -1,5 +1,5 @@
 # agentic-workshop
-This repository contains the python notebook files required to participate hands-on in the Agentic AI Workshop run by Outpace AI (Australia). These files should be downloaded and stored locally so that they are available to be uploaded into your Google Colab environment during the workshop.  
+This repository contains the python notebook files required to participate hands-on in the Agentic AI Workshop. These files should be downloaded and stored locally so that they are available to be uploaded into your Google Colab environment during the workshop.  
 
 ### Workshop Preparation  
 To prepare for participating in the workshop, you should register and get API keys from Google and Huggingface, as below.
